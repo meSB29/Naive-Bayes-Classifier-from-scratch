@@ -1,0 +1,289 @@
+*********ITERATION  1 ********
+vocab_set 64319
+Accuracy of fold  1 :  93.357
+vocab_set 64590
+Accuracy of fold  2 :  93.991
+vocab_set 64464
+Accuracy of fold  3 :  95.247
+vocab_set 64174
+Accuracy of fold  4 :  95.157
+vocab_set 64805
+Accuracy of fold  5 :  94.888
+Final Accuracy of multivariate: 94.528
+Accuracy of fold  1 :  94.255
+Accuracy of fold  2 :  94.888
+Accuracy of fold  3 :  95.874
+Accuracy of fold  4 :  95.516
+Accuracy of fold  5 :  94.619
+Final Accuracy of multinomial: 95.03
+time taken : 291.937153339386
+
+
+*********ITERATION  2 ********
+vocab_set 64185
+Accuracy of fold  1 :  94.345
+vocab_set 64968
+Accuracy of fold  2 :  94.798
+vocab_set 64202
+Accuracy of fold  3 :  93.991
+vocab_set 64507
+Accuracy of fold  4 :  94.26
+vocab_set 64490
+Accuracy of fold  5 :  94.619
+Final Accuracy of multivariate: 94.403
+Accuracy of fold  1 :  94.973
+Accuracy of fold  2 :  94.798
+Accuracy of fold  3 :  94.26
+Accuracy of fold  4 :  95.157
+Accuracy of fold  5 :  94.888
+Final Accuracy of multinomial: 94.815
+time taken : 584.5962295532227
+
+
+*********ITERATION  3 ********
+vocab_set 64589
+Accuracy of fold  1 :  93.986
+vocab_set 64171
+Accuracy of fold  2 :  95.247
+vocab_set 64215
+Accuracy of fold  3 :  94.439
+vocab_set 64348
+Accuracy of fold  4 :  93.274
+vocab_set 65029
+Accuracy of fold  5 :  95.247
+Final Accuracy of multivariate: 94.438
+Accuracy of fold  1 :  94.165
+Accuracy of fold  2 :  95.695
+Accuracy of fold  3 :  94.619
+Accuracy of fold  4 :  93.722
+Accuracy of fold  5 :  95.695
+Final Accuracy of multinomial: 94.779
+time taken : 885.3199639320374
+
+
+*********ITERATION  4 ********
+vocab_set 64145
+Accuracy of fold  1 :  94.704
+vocab_set 64360
+Accuracy of fold  2 :  95.336
+vocab_set 64286
+Accuracy of fold  3 :  93.543
+vocab_set 64942
+Accuracy of fold  4 :  94.35
+vocab_set 64619
+Accuracy of fold  5 :  94.619
+Final Accuracy of multivariate: 94.51
+Accuracy of fold  1 :  95.063
+Accuracy of fold  2 :  95.695
+Accuracy of fold  3 :  93.991
+Accuracy of fold  4 :  94.709
+Accuracy of fold  5 :  94.798
+Final Accuracy of multinomial: 94.851
+time taken : 1194.1293849945068
+
+
+*********ITERATION  5 ********
+vocab_set 64464
+Accuracy of fold  1 :  94.614
+vocab_set 64412
+Accuracy of fold  2 :  93.453
+vocab_set 64540
+Accuracy of fold  3 :  95.157
+vocab_set 64289
+Accuracy of fold  4 :  95.336
+vocab_set 64647
+Accuracy of fold  5 :  93.632
+Final Accuracy of multivariate: 94.438
+Accuracy of fold  1 :  95.242
+Accuracy of fold  2 :  93.543
+Accuracy of fold  3 :  95.605
+Accuracy of fold  4 :  95.695
+Accuracy of fold  5 :  93.722
+Final Accuracy of multinomial: 94.761
+time taken : 1493.0150156021118
+
+
+*********ITERATION  6 ********
+vocab_set 64146
+Accuracy of fold  1 :  94.794
+vocab_set 64062
+Accuracy of fold  2 :  94.709
+vocab_set 65166
+Accuracy of fold  3 :  94.26
+vocab_set 64578
+Accuracy of fold  4 :  93.901
+vocab_set 64400
+Accuracy of fold  5 :  93.991
+Final Accuracy of multivariate: 94.331
+Accuracy of fold  1 :  95.422
+Accuracy of fold  2 :  94.978
+Accuracy of fold  3 :  94.439
+Accuracy of fold  4 :  94.888
+Accuracy of fold  5 :  94.35
+Final Accuracy of multinomial: 94.815
+time taken : 1775.2809071540833
+
+
+*********ITERATION  7 ********
+vocab_set 64423
+Accuracy of fold  1 :  95.153
+vocab_set 64770
+Accuracy of fold  2 :  94.888
+vocab_set 64558
+Accuracy of fold  3 :  94.081
+vocab_set 64790
+Accuracy of fold  4 :  94.35
+vocab_set 63811
+Accuracy of fold  5 :  94.26
+Final Accuracy of multivariate: 94.546
+Accuracy of fold  1 :  95.332
+Accuracy of fold  2 :  95.605
+Accuracy of fold  3 :  94.439
+Accuracy of fold  4 :  94.26
+Accuracy of fold  5 :  94.709
+Final Accuracy of multinomial: 94.869
+time taken : 2068.734261035919
+
+
+*********ITERATION  8 ********
+vocab_set 64918
+Accuracy of fold  1 :  94.434
+vocab_set 64356
+Accuracy of fold  2 :  95.874
+vocab_set 64396
+Accuracy of fold  3 :  94.35
+vocab_set 64071
+Accuracy of fold  4 :  92.646
+vocab_set 64611
+Accuracy of fold  5 :  94.17
+Final Accuracy of multivariate: 94.295
+Accuracy of fold  1 :  95.063
+Accuracy of fold  2 :  96.143
+Accuracy of fold  3 :  94.439
+Accuracy of fold  4 :  93.453
+Accuracy of fold  5 :  94.26
+Final Accuracy of multinomial: 94.672
+time taken : 2357.2275846004486
+
+
+*********ITERATION  9 ********
+vocab_set 64740
+Accuracy of fold  1 :  95.601
+vocab_set 64715
+Accuracy of fold  2 :  95.247
+vocab_set 64352
+Accuracy of fold  3 :  93.901
+vocab_set 64249
+Accuracy of fold  4 :  93.543
+vocab_set 64296
+Accuracy of fold  5 :  93.901
+Final Accuracy of multivariate: 94.439
+Accuracy of fold  1 :  95.871
+Accuracy of fold  2 :  95.605
+Accuracy of fold  3 :  94.798
+Accuracy of fold  4 :  94.081
+Accuracy of fold  5 :  94.26
+Final Accuracy of multinomial: 94.923
+time taken : 2651.391134262085
+
+
+*********ITERATION  10 ********
+vocab_set 64521
+Accuracy of fold  1 :  94.883
+vocab_set 64214
+Accuracy of fold  2 :  93.543
+vocab_set 64777
+Accuracy of fold  3 :  94.888
+vocab_set 64530
+Accuracy of fold  4 :  94.619
+vocab_set 64310
+Accuracy of fold  5 :  94.529
+Final Accuracy of multivariate: 94.492
+Accuracy of fold  1 :  95.601
+Accuracy of fold  2 :  93.901
+Accuracy of fold  3 :  94.888
+Accuracy of fold  4 :  94.888
+Accuracy of fold  5 :  94.439
+Final Accuracy of multinomial: 94.744
+time taken : 2930.039697408676
+
+*********ITERATION  1 ********
+951    0
+69    94
+Accuracy of fold  1 :  93.806
+965    0
+68    82
+Accuracy of fold  2 :  93.901
+979    0
+62    74
+Accuracy of fold  3 :  94.439
+951    0
+61    103
+Accuracy of fold  4 :  94.529
+981    0
+55    79
+Accuracy of fold  5 :  95.067
+Final Accuracy of multivariate: 94.349
+951    0
+67    96
+Accuracy of fold  1 :  93.986
+965    0
+65    85
+Accuracy of fold  2 :  94.17
+978    1
+59    77
+Accuracy of fold  3 :  94.619
+951    0
+57    107
+Accuracy of fold  4 :  94.888
+981    0
+52    82
+Accuracy of fold  5 :  95.336
+Final Accuracy of multinomial: 94.6
+time taken : 317.246150970459
+
+
+*********ITERATION  1 ********
+CONFUSION MATRIX
+974    1
+58    81
+Accuracy of fold  1 :  94.704
+CONFUSION MATRIX
+955    0
+72    88
+Accuracy of fold  2 :  93.543
+CONFUSION MATRIX
+980    0
+55    80
+Accuracy of fold  3 :  95.067
+CONFUSION MATRIX
+956    0
+61    98
+Accuracy of fold  4 :  94.529
+CONFUSION MATRIX
+961    0
+58    96
+Accuracy of fold  5 :  94.798
+Final Accuracy of multivariate: 94.528
+CONFUSION MATRIX
+975    0
+60    79
+Accuracy of fold  1 :  94.614
+CONFUSION MATRIX
+954    1
+63    97
+Accuracy of fold  2 :  94.26
+CONFUSION MATRIX
+980    0
+49    86
+Accuracy of fold  3 :  95.605
+CONFUSION MATRIX
+956    0
+60    99
+Accuracy of fold  4 :  94.619
+CONFUSION MATRIX
+961    0
+51    103
+Accuracy of fold  5 :  95.426
+Final Accuracy of multinomial: 94.905
+time taken : 287.4228014945984
